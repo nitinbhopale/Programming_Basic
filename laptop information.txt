@@ -1,0 +1,7 @@
+Processor:Intel-core i5-1235U
+Processor Speed: 1.30 GHz
+RAM- 8GB
+HDD/SSD: SK hynix BC711 512GB
+MotherBoard Manufacturar: HP
+MotherBoard : 8A20
+MotherBoard Version:20.19

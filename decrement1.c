@@ -7,8 +7,8 @@ int main()
 
     No=--i;
 
-    printf("%d\n",No); //1
-    printf("%d\n",i);  //11
+    printf("%d\n",No); 
+    printf("%d\n",i);  
 
     return 0;
 }

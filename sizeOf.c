@@ -12,5 +12,10 @@ int main()
     printf("Size of float: %d bytes\n",sizeof(f));
     printf("Size of double: %d bytes\n",sizeof(d));
 
+    printf("Base Address of Character is: %d \n",&ch);
+    printf("Base Address of integer is: %d \n",&i);
+    printf("Base Address of float is: %d \n",&f);
+    printf("Base Address of double is: %d \n",&d);
+
     return 0;
 }

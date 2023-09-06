@@ -16,7 +16,7 @@ int main()
     obj.d = 90.9999;
 
     printf("%d\n",*(obj.p));
-    printf("%f",*(obj.q));
-
+    printf("%f\n",*(obj.q));
+    printf("%f",obj.d);
     return 0;
 }

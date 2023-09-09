@@ -4,6 +4,7 @@
 #define PI 3.14
 #define Dozen 12
 
+//enter point function
 int main()
 {
     struct Demo obj;

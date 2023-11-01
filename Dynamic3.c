@@ -16,7 +16,8 @@ int main()
     ptr[0] = 10;
     ptr[1] = 11;
     ptr[2] = 12;
-   
+    
+    
     free(ptr);
 
 
